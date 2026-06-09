@@ -1,0 +1,27 @@
+{
+  "name": "newfolder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uday301005/2300321540196.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/uday301005/2300321540196/issues"
+  },
+  "homepage": "https://github.com/uday301005/2300321540196#readme",
+  "dependencies": {
+    "axios": "^1.17.0",
+    "express": "^4.18.4"
+  }
+}
